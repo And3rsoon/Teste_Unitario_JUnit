@@ -36,21 +36,21 @@ Podemos também realizar testes automatizados usando a anotação @RepeatedTest(
 Etapas:
 1° Devemos incluir a biblioteca JUnit no Projeto, usando o eclipse você pode incluir fazendo:
 
-        ![Alt text](image.png)
+![Alt text](image.png)
         Clicar sobre o ClassPath e selecionar o botão a direita "Add Library"
-        ![Alt text](image-1.png)
+![Alt text](image-1.png)
 
-        ![Alt text](image-2.png)
+![Alt text](image-2.png)
 
-        ![Alt text](image-3.png)
+![Alt text](image-3.png)
 
 2° Criar a Classe que queremos testar
      
-      ![Alt text](image-4.png)
+![Alt text](image-4.png)
 
 3° Criar a Classe Teste
      
-       ![Alt text](image-5.png)
+![Alt text](image-5.png)
 
 4° ![Alt text](image-6.png)
 
