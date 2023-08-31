@@ -54,4 +54,4 @@ Etapas:
 
 4° ![Alt text](image-6.png)
 
-Fim
+Os arquivos do código podem ser acessados mudando para branch Master.
